@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aubrey! <br/><a href="https://github.com/joshmadakor1">Security Engineer</a>, <a href="https://www.linkedin.com/in/asolomon/">Cybersecurity Professional</a>
+<h1>Hi, I'm Aubrey! <br/><a href="https://github.com/asolomon111">Security Engineer</a>, <a href="https://www.linkedin.com/in/asolomon/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
