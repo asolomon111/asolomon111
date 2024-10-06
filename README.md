@@ -23,7 +23,7 @@
   <li><strong>Cloud Platforms:</strong> AWS, Azure</li>
   <li><strong>Security Tools:</strong> Wireshark, Burp Suite, Metasploit, osquery</li>
   <li><strong>Frameworks & Standards:</strong> NIST Cybersecurity Framework, NIST 800-53, MITRE ATT&CK</li>
-  <li><strong>Certifications:</strong> CISSP, CCSP (provisional passes), AWS Certified Security</li>
+  <li><strong>Certifications:</strong> CISSP, CCSP (provisional passes), Cysa+, Cloud+, Sec+</li>
 </ul>
 
 <h2>🤳 Connect with Me:</h2>
